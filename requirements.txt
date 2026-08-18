@@ -1,0 +1,14 @@
+openai
+google-generativeai
+chromadb
+langchain
+langchain-openai
+langchain-google-genai
+python-dotenv
+pypdf
+pdf2image
+pillow
+pandas
+tiktoken
+jupyter
+unstructured

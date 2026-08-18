@@ -1,0 +1,9 @@
+Question ID,Question,Expected Answer,Evidence
+M1,"What are the three filtration stages, in order?",Pre-filter → Carbon → RO,Figure 2
+M2,What are the three buttons shown on the front panel?,"Power, Mode, Temp",Figure 1
+M3,How often should the RO membrane be replaced?,Every 18 months,Maintenance text
+M4,What should be done immediately after replacing a filter?,Run one complete Flush cycle,Maintenance text
+M5,"If water flow is low and the indicator is red, which stage should be inspected first?",Pre-filter,Figure 2 + troubleshooting
+M6,What should the user do if a leak alarm occurs?,"Stop appliance, close inlet valve, contact authorized service",Troubleshooting text
+M7,Does Temperature change the filtration stage?,No,Operating modes text
+M8,What is the water-flow sequence shown in the diagram?,Inlet → Pre-filter → Carbon → RO → Outlet,Figure 3
