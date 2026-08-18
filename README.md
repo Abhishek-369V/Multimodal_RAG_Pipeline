@@ -29,9 +29,10 @@ Python, RAG, ChromaDB, LangChain, PDF/image extraction tools, OpenAI API (GPT-4 
    pip install -r requirements.txt
 ```
 2. Create a `.env` file in the root directory:
-
+```
 GOOGLE_API_KEY=your_key_here
 OPENAI_API_KEY=your_key_here
+```
 
 3. Run `Multi_modal_RAG.ipynb` (OpenAI) or `Multi_RAG_Gemini_test.ipynb` (Gemini) end-to-end in Jupyter.
 
